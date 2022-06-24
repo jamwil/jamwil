@@ -10,6 +10,7 @@ Hey I'm James! Tinkering and learning every day. Currently I work for a F500 in 
 
 **🌱 I’m always learning** Python ([grug brain](https://grugbrain.dev)) and am currently learning-by-doing database administration, more sophisticated application architecture, docker and modern dev-ops (young grug brain, all).
 * I'd like to learn htmx, Rust and Swift.
+* The technology I'm most excited about is WebAssembly. My next hobby project will likely be Rust/WASM-based.
 * I like tools and spend too much time on tooling and not enough time coding.
 * Currently reading Fluent Python, 2nd Edition (the 1st Edition changed my life) as well as Architecture Patterns with Python.
 
