@@ -18,4 +18,4 @@ Hey I'm James! Tinkering and learning every day. Currently I work for a F500 in 
 
 **📫 How to reach me:**
 * twitter: [@jamwil](https://twitter.com/jamwil)
-* email: james@kananlabs.org (PGP Fingerprint 𝟽𝟹𝟻𝟺 𝟺𝟽𝟺𝟽 𝟽𝟾𝙰𝟿 𝙳𝟿𝙳𝙵)
+* email: james@kananlabs.org (PGP Fingerprint `78A9D9DF`)
