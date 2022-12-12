@@ -16,5 +16,5 @@ Hey I'm James! Tinkering and learning every day. Currently I work for a large pu
 **💬 Ask me about** desktop/enterprise programming (Evergreen is a Qt-based desktop application, unfortunately), interfacing with Microsoft Excel/Word from Python (also gross), and anything tangential to commercial real estate or database design thereof.
 
 **📫 How to reach me:**
-* mastodon: <a rel="me" href="https://fosstodon.org/@jamwil">@jamwil@fosstodon.org</a>
+* mastodon: [&#64;jamwil&#64;fosstodon.org](https://fosstodon.org/@jamwil)
 * email: james@kananlabs.org (PGP Fingerprint `78A9D9DF`)
