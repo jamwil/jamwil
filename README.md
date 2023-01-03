@@ -7,7 +7,7 @@ Hey I'm James! Currently I work as a software developer for a large public firm 
 * It enables the configuration of template modules, coordinates real-time data sync from Excel to Word, and interfaces with a modern database.
 
 **🌱 I’m always learning** Python and am currently learning-by-doing database administration, more sophisticated application architecture, and basic dev-ops.
-* I'd like to learn Rust and htmx.
+* I'd like to learn rust and htmx.
 * I like tools and spend too much time on tooling and not enough time coding.
 * Currently reading Architecture Patterns with Python, the Rust Book, and Programming from the Ground Up (in assembly of all languages—haven't started this one yet).
 
