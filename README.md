@@ -1,9 +1,9 @@
-Hey I'm James! I work as a software developer for CBRE where I build tools to help appraisers enjoy their jobs more. I also run a small consulting firm called Kanan Labs Ltd., though the day job takes most of my time these days.
+Hey I'm James! I work as a software developer for [CBRE Group](https://en.wikipedia.org/wiki/CBRE_Group) where I build tools to help commercial real estate appraisers enjoy their jobs more. I also run a small consulting firm called [Kanan Labs Ltd.](https://kananlabs.org), though the day job takes most of my time these days.
 
 ---
 
 **🔭 The main project** I’m currently working on is called Evergreen.
-* Evergreen is a multi-purpose application for producing, editing and cataloging commercial real-estate appraisals.
+* Evergreen is a multi-purpose application for producing, editing and cataloging commercial real estate appraisals.
 * The tool enables on-demand creation of custom valuation models, coordinates real-time data sync from Microsoft Excel to Word, and interfaces with a modern database.
 
 **🌱 I’m always learning** Python and am currently learning-by-doing database administration, more sophisticated application architecture, and a little bit of rust.
