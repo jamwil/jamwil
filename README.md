@@ -9,7 +9,7 @@ Hey I'm James! I work as a software developer for [CBRE Group](https://en.wikipe
 
 **🌱 I’m always learning** Python and am currently learning-by-doing database administration, more sophisticated application architecture, kubernetes (boo 👎), and a little bit of rust (yay 🥳).
 * I maintain a python project template called [bulletproof-python](https://github.com/jamwil/bulletproof-python).
-* I've recently read [Code: The hidden language of Computer Hardware and Software](http://www.charlespetzold.com/code/) by Charles Petzold, [The Rust Book](https://doc.rust-lang.org/book/) by Steve Klabnik and Carol Nichols, and [Django for Professionals](https://djangoforprofessionals.com/) by William S. Vincent. I'm currently re-reading [Architecture Patterns with Python](https://www.cosmicpython.com/) by Harry Percival and Bob Gregory, working through the [Rust track on exercism](https://exercism.org/tracks/rust), and trying to brush up on my math. I'm also picking away at my longstanding desire to learn Spanish.
+* I'm focusing my learning on Rust these days, and away from the computer I'm planning the motorcycle trip of a lifetime from Alaska to Patagonia.
 
 
 **💬 Ask me about** desktop/enterprise programming (Evergreen is a Qt-based desktop application, unfortunately), interfacing with Microsoft Excel/Word from Python (also gross), and anything tangential to commercial real estate.
@@ -17,5 +17,5 @@ Hey I'm James! I work as a software developer for [CBRE Group](https://en.wikipe
 **📫 How to reach me:**
 * mastodon: [&#64;jamwil&#64;fosstodon.org](https://fosstodon.org/@jamwil)
 * email: mail@jamwil.com (PGP Fingerprint `78A9D9DF`)
-* signal: email me for my signal
+* signal: jamwil.01
 * linkedin: ew, but [ok](https://www.linkedin.com/in/jamwil)
