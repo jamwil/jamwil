@@ -15,7 +15,7 @@ Hey I'm James! I work as a software developer for [CBRE Group](https://en.wikipe
 **💬 Ask me about** desktop/enterprise programming (Evergreen is a Qt-based desktop application, unfortunately), interfacing with Microsoft Excel/Word from Python (also gross), and anything tangential to commercial real estate.
 
 **📫 How to reach me:**
-* mastodon: [&#64;jamwil&#64;fosstodon.org](https://fosstodon.org/@jamwil)
+* mastodon: [&#64;jamwil&#64;mastodon.sdf.org](https://mastodon.sdf.org/@jamwil)
 * email: mail@jamwil.com (PGP Fingerprint `78A9D9DF`)
 * signal: jamwil.01
 * linkedin: ew, but [ok](https://www.linkedin.com/in/jamwil)
