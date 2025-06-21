@@ -1,4 +1,4 @@
-Hey I'm James! I work as a software developer and general Swiss Army knife in my role as VP, Digital Operations for [CBRE Group](https://en.wikipedia.org/wiki/CBRE_Group) in Canada. Mainly I build internal tools and solutions for commercial real estate appraisers. I also run small side projects and open source contributions through my personal organization, [Kanan Labs Ltd.](https://kananlabs.org).
+Hey I'm James! I work as a software developer and general Swiss Army knife in my role as VP, Digital Operations for [CBRE Group](https://en.wikipedia.org/wiki/CBRE_Group) in Canada. Mainly I build internal tools and solutions for commercial real estate appraisers. I also run small side projects and open source work through my personal organization, [Kanan Labs Ltd.](https://kananlabs.org).
 
 ---
 
